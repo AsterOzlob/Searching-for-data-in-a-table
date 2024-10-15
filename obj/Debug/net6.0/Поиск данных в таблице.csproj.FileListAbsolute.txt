@@ -1,0 +1,42 @@
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\4 лаба\Поиск данных в таблице\bin\Debug\net6.0\Поиск данных в таблице.exe
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\4 лаба\Поиск данных в таблице\bin\Debug\net6.0\Поиск данных в таблице.deps.json
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\4 лаба\Поиск данных в таблице\bin\Debug\net6.0\Поиск данных в таблице.runtimeconfig.json
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\4 лаба\Поиск данных в таблице\bin\Debug\net6.0\Поиск данных в таблице.dll
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\4 лаба\Поиск данных в таблице\bin\Debug\net6.0\Поиск данных в таблице.pdb
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\4 лаба\Поиск данных в таблице\obj\Debug\net6.0\Поиск данных в таблице.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\4 лаба\Поиск данных в таблице\obj\Debug\net6.0\Поиск данных в таблице.AssemblyInfoInputs.cache
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\4 лаба\Поиск данных в таблице\obj\Debug\net6.0\Поиск данных в таблице.AssemblyInfo.cs
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\4 лаба\Поиск данных в таблице\obj\Debug\net6.0\Поиск данных в таблице.csproj.CoreCompileInputs.cache
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\4 лаба\Поиск данных в таблице\obj\Debug\net6.0\Поиск данных в таблице.dll
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\4 лаба\Поиск данных в таблице\obj\Debug\net6.0\refint\Поиск данных в таблице.dll
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\4 лаба\Поиск данных в таблице\obj\Debug\net6.0\Поиск данных в таблице.pdb
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\4 лаба\Поиск данных в таблице\obj\Debug\net6.0\Поиск данных в таблице.genruntimeconfig.cache
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\4 лаба\Поиск данных в таблице\obj\Debug\net6.0\ref\Поиск данных в таблице.dll
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Поиск данных в таблице\bin\Debug\net6.0\Поиск данных в таблице.exe
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Поиск данных в таблице\bin\Debug\net6.0\Поиск данных в таблице.deps.json
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Поиск данных в таблице\bin\Debug\net6.0\Поиск данных в таблице.runtimeconfig.json
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Поиск данных в таблице\bin\Debug\net6.0\Поиск данных в таблице.dll
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Поиск данных в таблице\bin\Debug\net6.0\Поиск данных в таблице.pdb
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Поиск данных в таблице\obj\Debug\net6.0\Поиск данных в таблице.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Поиск данных в таблице\obj\Debug\net6.0\Поиск данных в таблице.AssemblyInfoInputs.cache
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Поиск данных в таблице\obj\Debug\net6.0\Поиск данных в таблице.AssemblyInfo.cs
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Поиск данных в таблице\obj\Debug\net6.0\Поиск данных в таблице.csproj.CoreCompileInputs.cache
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Поиск данных в таблице\obj\Debug\net6.0\Поиск данных в таблице.dll
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Поиск данных в таблице\obj\Debug\net6.0\refint\Поиск данных в таблице.dll
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Поиск данных в таблице\obj\Debug\net6.0\Поиск данных в таблице.pdb
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Поиск данных в таблице\obj\Debug\net6.0\Поиск данных в таблице.genruntimeconfig.cache
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Поиск данных в таблице\obj\Debug\net6.0\ref\Поиск данных в таблице.dll
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Поиск данных в таблице (расширенная)\bin\Debug\net6.0\Поиск данных в таблице.exe
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Поиск данных в таблице (расширенная)\bin\Debug\net6.0\Поиск данных в таблице.deps.json
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Поиск данных в таблице (расширенная)\bin\Debug\net6.0\Поиск данных в таблице.runtimeconfig.json
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Поиск данных в таблице (расширенная)\bin\Debug\net6.0\Поиск данных в таблице.dll
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Поиск данных в таблице (расширенная)\bin\Debug\net6.0\Поиск данных в таблице.pdb
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Поиск данных в таблице (расширенная)\obj\Debug\net6.0\Поиск данных в таблице.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Поиск данных в таблице (расширенная)\obj\Debug\net6.0\Поиск данных в таблице.AssemblyInfoInputs.cache
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Поиск данных в таблице (расширенная)\obj\Debug\net6.0\Поиск данных в таблице.AssemblyInfo.cs
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Поиск данных в таблице (расширенная)\obj\Debug\net6.0\Поиск данных в таблице.csproj.CoreCompileInputs.cache
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Поиск данных в таблице (расширенная)\obj\Debug\net6.0\Поиск данных в таблице.dll
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Поиск данных в таблице (расширенная)\obj\Debug\net6.0\refint\Поиск данных в таблице.dll
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Поиск данных в таблице (расширенная)\obj\Debug\net6.0\Поиск данных в таблице.pdb
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Поиск данных в таблице (расширенная)\obj\Debug\net6.0\Поиск данных в таблице.genruntimeconfig.cache
+C:\Users\tumos\OneDrive\Рабочий стол\Алгоритмы и структуры данных\Поиск данных в таблице (расширенная)\obj\Debug\net6.0\ref\Поиск данных в таблице.dll

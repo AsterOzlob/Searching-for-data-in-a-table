@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Поиск данных в таблице/1.0.0": {
+        "runtime": {
+          "Поиск данных в таблице.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Поиск данных в таблице/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
